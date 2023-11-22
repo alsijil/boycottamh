@@ -9,8 +9,8 @@
 
 <channel>
 	<title>News &#8211; BOYCOTT AMERICAN MISSION HOSPITAL | حملة مقاطعة مستشفى الإرسالية الامريكية</title>
-	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Bahrain &#124; البحرين</description>
 	<lastBuildDate>Mon, 20 Nov 2023 15:53:18 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,7 +26,7 @@
 		<dc:creator><![CDATA[taqniyaadmin]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2023 15:51:20 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=2129</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2129</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -42,7 +42,7 @@
 		<dc:creator><![CDATA[taqniyaadmin]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2023 15:49:42 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=2126</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2126</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -59,7 +59,7 @@
 		<dc:creator><![CDATA[taqniyaadmin]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2023 15:47:57 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=2122</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2122</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div  class='flex_column av-2afame-aeee3041b4713f12277821b58a8998d5 av_one_full  avia-builder-el-0  avia-builder-el-no-sibling  first flex_column_div  '     ></div>
@@ -75,7 +75,7 @@
 		<dc:creator><![CDATA[taqniyaadmin]]></dc:creator>
 		<pubDate>Mon, 20 Nov 2023 15:44:28 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=2118</guid>
+		<guid isPermaLink="false">./../../../index.html?p=2118</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[<div  class='flex_column av-av_one_full-048119fdb636ea3d70edc0b975509c6c av_one_full  avia-builder-el-0  avia-builder-el-no-sibling  first flex_column_div  '     ></div>

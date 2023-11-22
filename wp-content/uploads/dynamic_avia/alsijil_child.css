@@ -1,111 +1,111 @@
 
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-black.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-black.ttf') format('truetype');
      font-style: normal;
      font-weight: 900;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-blackitalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-blackitalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 900;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-bold.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-bold.ttf') format('truetype');
      font-style: normal;
      font-weight: 700;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-bolditalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-bolditalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 700;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-extrabold.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-extrabold.ttf') format('truetype');
      font-style: normal;
      font-weight: 800;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-extrabolditalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-extrabolditalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 800;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-italic-variablefont_wght.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-italic-variablefont_wght.ttf') format('truetype');
      font-style: italic;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-italic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-italic.ttf') format('truetype');
      font-style: italic;
      font-weight: 400;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-light.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-light.ttf') format('truetype');
      font-style: normal;
      font-weight: 300;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-lightitalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-lightitalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 300;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-medium.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-medium.ttf') format('truetype');
      font-style: normal;
      font-weight: 500;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-mediumitalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-mediumitalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 500;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-regular.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-regular.ttf') format('truetype');
      font-style: normal;
      font-weight: 400;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-semibold.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-semibold.ttf') format('truetype');
      font-style: normal;
      font-weight: 600;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-semibolditalic.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-semibolditalic.ttf') format('truetype');
      font-style: italic;
      font-weight: 600;
      font-display: auto;
 }
 @font-face { 
      font-family: 'rubik';
-     src:    url('/wp-content/uploads/dynamic_avia/avia_type_fonts/rubik/rubik-variablefont_wght.ttf') format('truetype');
+     src:    url('./avia_type_fonts/rubik/rubik-variablefont_wght.ttf') format('truetype');
      font-style: normal;
      font-display: auto;
 }
