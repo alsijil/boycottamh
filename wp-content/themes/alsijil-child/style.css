@@ -12,6 +12,11 @@ Updated: 2023-11-20 12:04:03
 .logo {
     visibility: hidden !important;
 }
+@media only screen and (max-width: 767px) {
+.av-main-nav-wrap {
+  display:none !important;
+}
+}
 
 .ar-ltr {direction:rtl !important; font-size: 1.5em !important; }
 .ar-ltr p,li {font-family: Rubik !important;}
