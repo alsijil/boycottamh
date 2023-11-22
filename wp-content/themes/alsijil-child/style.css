@@ -1,0 +1,19 @@
+/*
+Theme Name: Alsijil Child
+Theme URI: #
+Template: alsijil
+Author: #
+Author URI: #
+Version: 5.6.8.1700481843
+Updated: 2023-11-20 12:04:03
+
+*/
+
+.logo {
+    visibility: hidden !important;
+}
+
+.ar-ltr {direction:rtl !important; font-size: 1.5em !important; }
+.ar-ltr p,li {font-family: Rubik !important;}
+.no-ltr {font-size: 1.3em !important;}
+/*.avia_iconbox_title {padding: 7px;}*/
